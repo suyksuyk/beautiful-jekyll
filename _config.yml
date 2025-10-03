@@ -20,11 +20,12 @@ author: AndySU
 ###############################################
 
 navbar-links:
-  产品介绍: "https://doc.rainwish.com.cn"
-  Resources:
+  产品介绍: "https://products.rainwish.com.cn"  
+  相关资源:
     - Feed: "https://microfeed.rainwish.com.cn"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  AI炒股助手: "https://chat.rainwish.com.cn"
+    - 文档资料: "https://doc.rainwish.com.cn"
+  AI助手: "https://chat.rainwish.com.cn"
+  联系我们: "https://chat.rainwish.com.cn"
 
 ################
 # --- Logo --- #
