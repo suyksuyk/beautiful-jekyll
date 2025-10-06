@@ -6,7 +6,7 @@ cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.jpg 
 share-img: /assets/img/path.jpg 
 tags: [AI, finance, investment] 
-author: AndySU
+author: JackLivermore
 
 
 ---
