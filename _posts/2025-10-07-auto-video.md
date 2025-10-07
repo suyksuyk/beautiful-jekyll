@@ -20,6 +20,8 @@ author: Mark Liu
 自动生成的核心不是炫技，而是用机器时间换人类时间，让内容生产变成“永动机”。
 
 我的自动生成流水线（全部开源组件）
+<img width="517" height="353" alt="image" src="https://github.com/user-attachments/assets/bc2429f9-1dcf-4886-be80-829b575dbadc" />
+
 | 模块 | 方案 | 成本 | 耗时 |
 |---|---|---|---|
 | 热点捕获 | 微博/抖音/推特 API + 关键词聚类 | 0 元 | 30 s |
