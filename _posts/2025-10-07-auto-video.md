@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 短视频自动生成：一条命令，10 倍产能，流量直接起飞
+title: 短视频自动生成：一条命令10 倍产能，流量直接起飞
 subtitle: 用 AI 把“剪视频”变成“下指令”，7×24 小时不间断产出爆款内容
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.jpg
