@@ -8,6 +8,7 @@
 ############################
 # --- Required options --- #
 ############################
+remove-ads: true
 
 # Name of website
 title: 润物吾生
