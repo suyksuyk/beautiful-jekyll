@@ -8,7 +8,6 @@ share-img: /assets/img/path.jpg
 tags: [short-video, ai-generation, content-marketing]
 author: Mark Liu
 ---
-
 做短视频的都知道：流量=钱，但剪辑=命。  
 一条 60 秒的短视频，从找素材、写脚本、配音、字幕、包装到上线，熟练工也要 2 小时。  
 一旦账号起量，日更 3 条就是 6 小时，活生生把创作者绑在电脑前。  
